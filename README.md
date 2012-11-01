@@ -1,0 +1,4 @@
+Kwotes
+======
+
+Supybot kwotes plugin
