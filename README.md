@@ -1,4 +1,4 @@
 Kwotes
 ======
 
-Supybot kwotes plugin
+Kwotes for some fags on the internet
